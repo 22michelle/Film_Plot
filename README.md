@@ -1,8 +1,17 @@
-# React + Vite
+<h1 align="center">Hola! Soy Michelle Mejía Parra 👋</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">Estudiante de programación de software</h3>
 
-Currently, two official plugins are available:
+## Despliegue 👉 https://film-plot-22michelle.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contáctame! 📞
+
+<p align="center"
+      <br/>
+      <a href="https://www.linkedin.com/in/michelle-mej%C3%ADa-parra-072148242/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:michellemejiaparra4@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+</p>
